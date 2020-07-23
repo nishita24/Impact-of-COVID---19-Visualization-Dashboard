@@ -1,1 +1,1 @@
-# Impact-of-COVID---19-Visualization-Dashboard
+# Impact-of-COVID-19-Visualization-Dashboard
